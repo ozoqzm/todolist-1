@@ -121,6 +121,7 @@ section .container h1 {
   height: 35px;
   vertical-align: middle;
   font-size: 1.7em;
+  background-color: pink;
 }
 
 .to-do-list {
